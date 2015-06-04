@@ -20,8 +20,8 @@ app.set('view engine', 'handlebars');
 var requestTokenUrl = "https://api.twitter.com/oauth/request_token";
 
 //To be obtained from the app created on Twitter
-var CONSUMER_KEY = "kuDm1KBKBJH3PpusFxcAA";
-var CONSUMER_SECRET = "5wOFqJe4R0Kf6SV9tXuqrzkpD7t7d8cvwZhPC7TW8";
+var CONSUMER_KEY = "GET_IT_FROM_TWITTER";
+var CONSUMER_SECRET = "GET_IT_FROM_TWITTER";
 
 //Oauth Object to be used to obtain Request token from Twitter
 var oauth = {
